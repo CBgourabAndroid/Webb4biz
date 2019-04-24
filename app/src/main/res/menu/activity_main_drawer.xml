@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+
+    <group android:checkableBehavior="single">
+        <item
+
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Portfoloi" />
+        <item
+
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Design" />
+        <item
+
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Web Development" />
+        <item
+
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Mobile" />
+        <item
+
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Digital Marketing" />
+        <item
+
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Pricing" />
+        <item
+
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Pay Now" />
+        <item
+
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="About" />
+        <item
+
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Contact Us" />
+
+
+    </group>
+
+
+</menu>
